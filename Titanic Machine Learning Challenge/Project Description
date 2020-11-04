@@ -1,0 +1,7 @@
+Objective: Predict the number of survivors on the Titanic using ML techniques. 
+
+• The dataset was taken from Kaggle and contains all passenger attributes.
+• Tool used: Python
+• Libraries used: Pandas, Matplotlib, Seaborn, Numpy, Scikit Learn
+• Main features selected were Age, Passenger class, Sex and Number of siblings and spouses and Number of parents or children using Pandas
+• Algorithms used: Multi-Logistic Regression, Random Forest Classification
