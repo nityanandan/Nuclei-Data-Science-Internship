@@ -1,3 +1,3 @@
-# Capstone-projects
+# Nuclei-Data-Science-Internship
 
-You can access my personal projects in this repository by toggling between the branches.
+These are the projects done by me in this internship. You can see the codes by toggling between the branches. 
