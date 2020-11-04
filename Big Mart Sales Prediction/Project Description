@@ -1,0 +1,9 @@
+Objective: Predict the sales for outlets using all the attributes given
+
+• Tool used: Python
+• Libraries used: Pandas, Matplotlib, Seaborn, Numpy, Scikit learn
+• EDA done
+• Feature Engineering done and as a result labels were corrected and items were divided into three new groups.
+• Algorithms used:
+  ▪ Linear Regression - RMSE 1542
+  ▪ Ridge Regression – RMSE 1541
