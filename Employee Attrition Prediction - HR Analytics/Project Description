@@ -1,0 +1,10 @@
+Objective: 
+  1. Try to analyse why employees are leaving.
+  2. Create a classification model to predict who would stay and who would leave.(Attrition)
+
+• Tool used: Python
+• Libraries used: Pandas, Matplotlib, Seaborn, Numpy, Scikit learn
+• EDA done
+• Selected features using Random Forest feature selection to fit into the model
+• Did SMOTE to balance the imbalanced dataset
+
